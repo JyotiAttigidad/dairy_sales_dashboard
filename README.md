@@ -1,11 +1,11 @@
-# 🧀 Dairy Sales Dashboard
+#  Dairy Sales Dashboard
 
 This Power BI dashboard provides a comprehensive analysis of dairy product sales across multiple states and years. 
 It helps stakeholders understand key performance metrics, identify trends, and make data-driven decisions.
 
 
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
 - **Total Land, Cow Population, Production & Revenue Overview**
 - **Sales Breakdown** by:
@@ -19,7 +19,7 @@ It helps stakeholders understand key performance metrics, identify trends, and m
 
 
 
-## 📌 Key Insights
+##  Key Insights
 
 - Only **46% of total production is sold**, indicating potential for growth.
 - **Retail** and **Wholesale** channels perform best, while **Online** is underused.
@@ -29,7 +29,7 @@ It helps stakeholders understand key performance metrics, identify trends, and m
 
 
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Boost Online Sales** via e-commerce platforms and promotions.
 2. **Promote Low-Selling Products** like Ghee and Buttermilk through bundles or offers.
@@ -39,7 +39,7 @@ It helps stakeholders understand key performance metrics, identify trends, and m
 
 
 
-## 🚀 Tools Used
+##  Tools Used
 
 - **Power BI** for data visualization
 - **Excel/CSV** (assumed) for data source
